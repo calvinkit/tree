@@ -1,0 +1,26 @@
+{
+  "name": "option-pricing-tree",
+  "version": "1.0.0",
+  "description": "Option pricing with tri/bi-nomial tree",
+  "main": "lib/tree",
+  "scripts": {
+    "test": "mocha"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://calvinkit@github.com/calvinkit/tree.git"
+  },
+  "author": "Calvin Lai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calvinkit/tree/issues"
+  },
+  "homepage": "https://github.com/calvinkit/tree#readme",
+  "dependencies": {
+    "mocha":"*",
+  }
+}
